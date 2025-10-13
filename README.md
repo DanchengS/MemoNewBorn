@@ -3,7 +3,7 @@
 ## 大件要买
 - **Stroller**
   - **Uppababy Vista**：我们买的这个，最多可以装俩坐着的小孩。缺点是重，但高景观、稳、底下能装超多东西。
-    小的时候要加infant insert才能用， <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/2f3baf54-3796-4338-806d-968571e66bbb" />
+    小的时候要加infant insert才能用，<br> <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/2f3baf54-3796-4338-806d-968571e66bbb" />
 
   - **Cybex**：挺好看，也不错。
   - **Graco**：老美比较常用。
@@ -87,10 +87,10 @@
   - CeraVe Baby Moisturizing Lotion
   - Cetaphil 大白罐
 - **红屁股护理**
-  - 日常：Destin Daily Defense Cream
+  - 日常：Destin Daily Defense Cream<br>
     <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/5d07792a-92cf-4409-9789-30bbc588a4a9" />
 
-  - 严重：Destin Maximum Strength
+  - 严重：Destin Maximum Strength<br>
     <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/80db19fb-03a5-46b8-aa0b-1c7ca9a495da" />
 
   - 建议流程：拉屎 → 水洗 → 棉柔巾擦干 → 抹药膏 → 换尿布
@@ -102,7 +102,7 @@
   - 大点：Love To Dream <br>
     <img width="113" height="185" alt="image" src="https://github.com/user-attachments/assets/666edaec-42e2-4d7c-ab5b-9cf74300bedf" />
 
-  - 等会翻身可以把love to dream的袖子拆掉解放双手，有可拆袖子版本的。
+  - 等会翻身可以把love to dream的袖子拆掉解放双手，有可拆袖子版本的。<br>
     <img width="112" height="131" alt="image" src="https://github.com/user-attachments/assets/ed6a92c0-6cd7-4a50-b845-0bbe893bebfa" />
 
 - **衣物**
