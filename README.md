@@ -99,3 +99,5 @@
   - 开衫比套头好穿
 - **洗澡盆**
   - amazon有卖
+  - <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/61524cb4-2cc9-4449-8dde-f816d5080139" />
+
