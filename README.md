@@ -86,18 +86,25 @@
   - Cetaphil 大白罐
 - **红屁股护理**
   - 日常：Destin Daily Defense Cream
+    <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/5d07792a-92cf-4409-9789-30bbc588a4a9" />
+
   - 严重：Destin Maximum Strength
+    <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/80db19fb-03a5-46b8-aa0b-1c7ca9a495da" />
+
   - 建议流程：拉屎 → 水洗 → 棉柔巾擦干 → 抹药膏 → 换尿布
 - **凡士林**：日常替代 Daily Defense，透气。
 - **Tubby Todd**：贵，但新生儿起疹子好用。
 - **Costco 狗尿垫**：换尿布/外出必备，便宜实用。
 - **包巾/睡袋**
-  - 小月龄：SwaddleMe 包巾
+  - 小月龄：SwaddleMe/包巾 -- 防惊跳
   - 大点：Love To Dream
+  - 等会翻身可以把love to dream的袖子拆掉解放双手，有可拆袖子版本的。
 - **衣物**
   - Gerber 好用
   - 开衫比套头好穿
+  -   <img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/fc2f9c5e-5362-4afa-8a6f-1535459d2ade" />
+
 - **洗澡盆**
   - amazon有卖
-  - <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/61524cb4-2cc9-4449-8dde-f816d5080139" />
+  - <img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/61524cb4-2cc9-4449-8dde-f816d5080139" />
 
