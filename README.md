@@ -3,6 +3,8 @@
 ## 大件要买
 - **Stroller**
   - **Uppababy Vista**：我们买的这个，最多可以装俩坐着的小孩。缺点是重，但高景观、稳、底下能装超多东西。
+    小的时候要加infant insert才能用， <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/2f3baf54-3796-4338-806d-968571e66bbb" />
+
   - **Cybex**：挺好看，也不错。
   - **Graco**：老美比较常用。
 
@@ -33,7 +35,7 @@
 - 哺乳椅（带脚凳，可摇摇，虽用的不多，但很舒服）
 - 哺乳枕
 - **Diaper Genie**：尿布垃圾桶，不容易散味
-- 尿布台（小月龄有用，能翻身后使用频率降低）
+- 尿布台 - 小月龄有用，对腰比较友好，能翻身后使用频率降低
 - 婴儿体重秤（洗澡后称重用）
 - App
   - 美柚: 可以看不同孕期时期有什么注意的。
@@ -43,7 +45,7 @@
 ---
 
 ## Bedding
-- **Mattress**
+- **Mattress** -- breathable的作用是防止小朋友会翻身后，脸朝下，不会窒息。
   - **Natruepedic（我们用的）**
     - 配 breathable 床垫套，防窒息
     - 纯 Organic，本身防水
