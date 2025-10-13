@@ -97,10 +97,14 @@
 - **凡士林**：日常替代 Daily Defense，透气。
 - **Tubby Todd**：贵，但新生儿起疹子好用。
 - **Costco 狗尿垫**：换尿布/外出必备，便宜实用。
-- **包巾/睡袋**
+- **包巾/睡袋** -- 有个东西叫TOG，数值越高，睡袋越厚越暖，数值越低，越轻薄透气
   - 小月龄：SwaddleMe/包巾 -- 防惊跳
   - 大点：Love To Dream
+    <img width="113" height="185" alt="image" src="https://github.com/user-attachments/assets/666edaec-42e2-4d7c-ab5b-9cf74300bedf" />
+
   - 等会翻身可以把love to dream的袖子拆掉解放双手，有可拆袖子版本的。
+    <img width="112" height="131" alt="image" src="https://github.com/user-attachments/assets/ed6a92c0-6cd7-4a50-b845-0bbe893bebfa" />
+
 - **衣物**
   - Gerber 好用
   - 开衫比套头好穿
