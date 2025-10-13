@@ -99,7 +99,7 @@
 - **Costco 狗尿垫**：换尿布/外出必备，便宜实用。
 - **包巾/睡袋** -- 有个东西叫TOG，数值越高，睡袋越厚越暖，数值越低，越轻薄透气
   - 小月龄：SwaddleMe/包巾 -- 防惊跳
-  - 大点：Love To Dream
+  - 大点：Love To Dream <br>
     <img width="113" height="185" alt="image" src="https://github.com/user-attachments/assets/666edaec-42e2-4d7c-ab5b-9cf74300bedf" />
 
   - 等会翻身可以把love to dream的袖子拆掉解放双手，有可拆袖子版本的。
