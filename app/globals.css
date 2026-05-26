@@ -1,0 +1,57 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "PingFang SC", "Hiragino Sans GB",
+    "Microsoft YaHei", "Segoe UI", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  color: #1d1d1f;
+}
+
+/* Hero */
+.hero-bg {
+  background-color: #1c1c1e;
+}
+
+/* Scroll fade-in */
+.reveal {
+  opacity: 0;
+  transform: translateY(20px);
+  transition: opacity 0.7s cubic-bezier(0.16, 1, 0.3, 1),
+              transform 0.7s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.reveal.visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+/* Hide scrollbar on nav */
+.hide-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+.hide-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+/* Card hover */
+.card-hover {
+  transition: box-shadow 0.3s ease, transform 0.25s ease;
+}
+.card-hover:hover {
+  box-shadow: 0 12px 32px -8px rgba(0, 0, 0, 0.1);
+  transform: translateY(-2px);
+}
+
+/* Progress bar */
+.progress-bar {
+  height: 2px;
+  background: #1d1d1f;
+  transition: width 0.1s linear;
+}
