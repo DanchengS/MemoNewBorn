@@ -15,7 +15,7 @@ function SectionHeader({
   return (
     <div className="mb-10">
       {tag && (
-        <p className="text-[10px] font-semibold tracking-[0.15em] text-stone-400 uppercase mb-3">
+        <p className="text-[0.625rem] font-semibold tracking-[0.15em] text-stone-400 uppercase mb-3">
           {tag}
         </p>
       )}
@@ -32,7 +32,7 @@ function SectionHeader({
 
 function SubHeader({ title }: { title: string }) {
   return (
-    <h3 className="text-[10px] font-semibold tracking-[0.12em] text-stone-400 uppercase mb-4 mt-8 pb-2.5 border-b border-stone-100">
+    <h3 className="text-[0.625rem] font-semibold tracking-[0.12em] text-stone-400 uppercase mb-4 mt-8 pb-2.5 border-b border-stone-100">
       {title}
     </h3>
   );
@@ -73,7 +73,7 @@ function Card({
       <div className="flex items-start justify-between gap-2 mb-1.5">
         <h3 className="font-semibold text-stone-900 text-xs leading-snug">{title}</h3>
         {tagText && (
-          <span className={`shrink-0 px-1.5 py-0.5 text-[10px] rounded font-medium ${tagStyles[tagVariant]}`}>
+          <span className={`shrink-0 px-1.5 py-0.5 text-[0.625rem] rounded font-medium ${tagStyles[tagVariant]}`}>
             {tagText}
           </span>
         )}
@@ -83,7 +83,7 @@ function Card({
       )}
       {children}
       {note && (
-        <div className="mt-3 pl-2.5 border-l-2 border-amber-300 text-[10px] text-stone-500 leading-relaxed">
+        <div className="mt-3 pl-2.5 border-l-2 border-amber-300 text-[0.625rem] text-stone-500 leading-relaxed">
           {note}
         </div>
       )}
@@ -121,7 +121,7 @@ export default function Home() {
         {/* ── Hero ──────────────────────────────────────────────── */}
         <section className="hero-bg min-h-screen flex items-center justify-center relative overflow-hidden">
           <div className="text-center text-white px-6 z-10 max-w-3xl mx-auto">
-            <p className="text-[10px] font-semibold tracking-[0.2em] text-white/40 uppercase mb-8">
+            <p className="text-[0.625rem] font-semibold tracking-[0.2em] text-white/40 uppercase mb-8">
               来自过来人的经验分享
             </p>
             <h1 className="text-4xl md:text-6xl font-bold mb-2.5 tracking-tight leading-[1.05]">
@@ -270,9 +270,9 @@ export default function Home() {
                     }`}
                   >
                     <div className="font-semibold text-stone-900 text-xs mb-1">{item.title}</div>
-                    <p className="text-[11px] text-stone-400 leading-relaxed">{item.desc}</p>
+                    <p className="text-[0.6875rem] text-stone-400 leading-relaxed">{item.desc}</p>
                     {item.highlight && (
-                      <span className="inline-block mt-2.5 px-1.5 py-0.5 bg-stone-900 text-white text-[10px] rounded font-medium">
+                      <span className="inline-block mt-2.5 px-1.5 py-0.5 bg-stone-900 text-white text-[0.625rem] rounded font-medium">
                         85折优惠
                       </span>
                     )}
@@ -316,8 +316,8 @@ export default function Home() {
                       { name: "Baby Tracker", desc: "记录娃的吃喝拉撒，多久没换尿布/吃奶一目了然" },
                     ].map((app) => (
                       <div key={app.name} className="p-2.5 bg-stone-50 rounded-lg border border-stone-100">
-                        <div className="font-semibold text-stone-900 text-[11px]">{app.name}</div>
-                        <div className="text-[10px] text-stone-400 mt-0.5 leading-relaxed">{app.desc}</div>
+                        <div className="font-semibold text-stone-900 text-[0.6875rem]">{app.name}</div>
+                        <div className="text-[0.625rem] text-stone-400 mt-0.5 leading-relaxed">{app.desc}</div>
                       </div>
                     ))}
                   </div>
@@ -347,19 +347,19 @@ export default function Home() {
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-3">
                   <div className="p-3 bg-stone-50 rounded-lg border border-stone-100">
                     <div className="font-semibold text-stone-900 text-xs mb-1">Naturepedic</div>
-                    <div className="text-[11px] text-stone-500 leading-relaxed">
+                    <div className="text-[0.6875rem] text-stone-500 leading-relaxed">
                       我们用的。配 breathable 床垫套，防窒息。纯 Organic，本身防水。
                     </div>
-                    <span className="inline-block mt-2 px-1.5 py-0.5 bg-stone-900 text-white text-[10px] rounded font-medium">
+                    <span className="inline-block mt-2 px-1.5 py-0.5 bg-stone-900 text-white text-[0.625rem] rounded font-medium">
                       我们的选择
                     </span>
                   </div>
                   <div className="p-3 bg-stone-50 rounded-lg border border-stone-100">
                     <div className="font-semibold text-stone-900 text-xs mb-1">Newton</div>
-                    <div className="text-[11px] text-stone-500 leading-relaxed">
+                    <div className="text-[0.6875rem] text-stone-500 leading-relaxed">
                       很多人推荐，breathable 设计，透气性极佳。
                     </div>
-                    <span className="inline-block mt-2 px-1.5 py-0.5 bg-stone-100 text-stone-600 text-[10px] rounded font-medium">
+                    <span className="inline-block mt-2 px-1.5 py-0.5 bg-stone-100 text-stone-600 text-[0.625rem] rounded font-medium">
                       热门推荐
                     </span>
                   </div>
@@ -379,11 +379,11 @@ export default function Home() {
                   <h3 className="font-semibold text-stone-900 text-xs mb-4">Bassinet → Crib 过渡</h3>
                   <div className="space-y-3 text-xs text-stone-400">
                     <div className="flex items-start gap-2.5">
-                      <span className="text-stone-300 font-semibold text-[10px] shrink-0 mt-0.5 tabular-nums">01</span>
+                      <span className="text-stone-300 font-semibold text-[0.625rem] shrink-0 mt-0.5 tabular-nums">01</span>
                       <span>小月龄用 bassinet 靠床一侧，方便夜间哺乳</span>
                     </div>
                     <div className="flex items-start gap-2.5">
-                      <span className="text-stone-300 font-semibold text-[10px] shrink-0 mt-0.5 tabular-nums">02</span>
+                      <span className="text-stone-300 font-semibold text-[0.625rem] shrink-0 mt-0.5 tabular-nums">02</span>
                       <span>大了换 crib（儿医建议：同房不同床）</span>
                     </div>
                   </div>
@@ -412,7 +412,7 @@ export default function Home() {
             </AnimatedSection>
 
             <AnimatedSection delay={60}>
-              <p className="text-[10px] font-semibold tracking-[0.12em] text-stone-400 uppercase mb-4">
+              <p className="text-[0.625rem] font-semibold tracking-[0.12em] text-stone-400 uppercase mb-4">
                 妈妈用
               </p>
             </AnimatedSection>
@@ -427,15 +427,15 @@ export default function Home() {
               ].map((item, i) => (
                 <AnimatedSection key={item.title} delay={i * 50 + 100}>
                   <div className="bg-white rounded-xl p-3 border border-stone-100 card-hover text-center h-full flex flex-col items-center">
-                    <div className="font-semibold text-stone-900 text-[11px] mb-1">{item.title}</div>
-                    <p className="text-[10px] text-stone-400 leading-relaxed">{item.desc}</p>
+                    <div className="font-semibold text-stone-900 text-[0.6875rem] mb-1">{item.title}</div>
+                    <p className="text-[0.625rem] text-stone-400 leading-relaxed">{item.desc}</p>
                   </div>
                 </AnimatedSection>
               ))}
             </div>
 
             <AnimatedSection delay={60}>
-              <p className="text-[10px] font-semibold tracking-[0.12em] text-stone-400 uppercase mb-4">
+              <p className="text-[0.625rem] font-semibold tracking-[0.12em] text-stone-400 uppercase mb-4">
                 宝宝用
               </p>
             </AnimatedSection>
@@ -459,8 +459,8 @@ export default function Home() {
               ].map((item, i) => (
                 <AnimatedSection key={item.title} delay={i * 35 + 100}>
                   <div className="bg-white rounded-xl p-3 border border-stone-100 card-hover h-full">
-                    <div className="font-semibold text-stone-900 text-[11px] mb-1">{item.title}</div>
-                    <p className="text-[10px] text-stone-400 leading-relaxed">{item.desc}</p>
+                    <div className="font-semibold text-stone-900 text-[0.6875rem] mb-1">{item.title}</div>
+                    <p className="text-[0.625rem] text-stone-400 leading-relaxed">{item.desc}</p>
                   </div>
                 </AnimatedSection>
               ))}
@@ -521,7 +521,7 @@ export default function Home() {
                   <h3 className="font-semibold text-stone-900 text-xs mb-3">身体乳（保湿防干燥）</h3>
                   <div className="space-y-1.5">
                     {["CeraVe Baby Moisturizing Lotion", "Cetaphil 大白罐"].map((name) => (
-                      <div key={name} className="flex items-center gap-2.5 p-2.5 bg-stone-50 rounded-lg text-[11px] text-stone-600 border border-stone-100">
+                      <div key={name} className="flex items-center gap-2.5 p-2.5 bg-stone-50 rounded-lg text-[0.6875rem] text-stone-600 border border-stone-100">
                         <span className="w-1 h-1 rounded-full bg-stone-300 shrink-0" />
                         {name}
                       </div>
@@ -535,13 +535,13 @@ export default function Home() {
                   <h3 className="font-semibold text-stone-900 text-xs mb-3">红屁股护理</h3>
                   <div className="space-y-1.5 mb-3">
                     <div className="p-2.5 bg-stone-50 rounded-lg border border-stone-100">
-                      <div className="text-[11px] font-medium text-stone-600">日常 — Destin Daily Defense Cream</div>
+                      <div className="text-[0.6875rem] font-medium text-stone-600">日常 — Destin Daily Defense Cream</div>
                     </div>
                     <div className="p-2.5 bg-stone-50 rounded-lg border border-stone-100">
-                      <div className="text-[11px] font-medium text-stone-600">严重 — Destin Maximum Strength</div>
+                      <div className="text-[0.6875rem] font-medium text-stone-600">严重 — Destin Maximum Strength</div>
                     </div>
                   </div>
-                  <div className="pl-2.5 border-l-2 border-stone-200 text-[10px] text-stone-500 leading-relaxed">
+                  <div className="pl-2.5 border-l-2 border-stone-200 text-[0.625rem] text-stone-500 leading-relaxed">
                     <span className="font-semibold block mb-0.5">推荐流程</span>
                     拉屎 → 水洗 → 棉柔巾吸干 → 抹药膏 → 穿尿布
                   </div>
@@ -574,15 +574,15 @@ export default function Home() {
                   <h3 className="font-semibold text-stone-900 text-xs mb-3">包巾 / 睡袋</h3>
                   <div className="space-y-1.5 mb-3">
                     <div className="p-2.5 bg-stone-50 rounded-lg border border-stone-100">
-                      <div className="font-semibold text-stone-900 text-[11px]">小月龄 — SwaddleMe / 包巾</div>
-                      <div className="text-[10px] text-stone-400 mt-0.5">防惊跳，帮助安睡</div>
+                      <div className="font-semibold text-stone-900 text-[0.6875rem]">小月龄 — SwaddleMe / 包巾</div>
+                      <div className="text-[0.625rem] text-stone-400 mt-0.5">防惊跳，帮助安睡</div>
                     </div>
                     <div className="p-2.5 bg-stone-50 rounded-lg border border-stone-100">
-                      <div className="font-semibold text-stone-900 text-[11px]">大点 — Love to Dream</div>
-                      <div className="text-[10px] text-stone-400 mt-0.5">有可拆袖子版，会翻身后解放双手</div>
+                      <div className="font-semibold text-stone-900 text-[0.6875rem]">大点 — Love to Dream</div>
+                      <div className="text-[0.625rem] text-stone-400 mt-0.5">有可拆袖子版，会翻身后解放双手</div>
                     </div>
                   </div>
-                  <div className="pl-2.5 border-l-2 border-amber-300 text-[10px] text-stone-500 leading-relaxed">
+                  <div className="pl-2.5 border-l-2 border-amber-300 text-[0.625rem] text-stone-500 leading-relaxed">
                     <span className="font-semibold block mb-0.5">关于 TOG</span>
                     TOG 越高越暖，越低越透气。保持房间温度恒定比加衣服更重要——十个睡不好的孩子，九个是热的！
                   </div>
@@ -592,7 +592,7 @@ export default function Home() {
               <AnimatedSection delay={560}>
                 <div className="bg-white rounded-xl p-4 border border-stone-100 card-hover h-full">
                   <h3 className="font-semibold text-stone-900 text-xs mb-3">衣物</h3>
-                  <div className="space-y-1.5 text-[11px] text-stone-400">
+                  <div className="space-y-1.5 text-[0.6875rem] text-stone-400">
                     {[
                       "Uniqlo 质量不错，性价比高",
                       "Gerber 好用，美式经典",
@@ -640,36 +640,36 @@ export default function Home() {
                 <div className="bg-white rounded-xl p-4 border-2 border-stone-900 card-hover h-full">
                   <div className="flex items-center justify-between mb-1.5">
                     <h3 className="font-semibold text-stone-900 text-xs">NUK</h3>
-                    <span className="px-1.5 py-0.5 bg-stone-900 text-white text-[10px] rounded font-medium">我们最爱</span>
+                    <span className="px-1.5 py-0.5 bg-stone-900 text-white text-[0.625rem] rounded font-medium">我们最爱</span>
                   </div>
-                  <p className="text-[11px] text-stone-400 leading-relaxed">便宜好用，娃爱用，塑料瓶几个月一换就行。</p>
+                  <p className="text-[0.6875rem] text-stone-400 leading-relaxed">便宜好用，娃爱用，塑料瓶几个月一换就行。</p>
                 </div>
               </AnimatedSection>
               <AnimatedSection delay={160}>
                 <div className="bg-white rounded-xl p-4 border border-stone-200 card-hover h-full">
                   <div className="flex items-center justify-between mb-1.5">
                     <h3 className="font-semibold text-stone-900 text-xs">贝亲</h3>
-                    <span className="px-1.5 py-0.5 bg-stone-100 text-stone-600 text-[10px] rounded font-medium">并列第一</span>
+                    <span className="px-1.5 py-0.5 bg-stone-100 text-stone-600 text-[0.625rem] rounded font-medium">并列第一</span>
                   </div>
-                  <p className="text-[11px] text-stone-400 leading-relaxed">玻璃瓶质感好，但娃能自己手抓后就不用玻璃瓶了。</p>
+                  <p className="text-[0.6875rem] text-stone-400 leading-relaxed">玻璃瓶质感好，但娃能自己手抓后就不用玻璃瓶了。</p>
                 </div>
               </AnimatedSection>
               <AnimatedSection delay={220}>
                 <div className="bg-white rounded-xl p-4 border border-stone-100 card-hover h-full">
                   <div className="flex items-center justify-between mb-1.5">
                     <h3 className="font-semibold text-stone-900 text-xs">Dr Brown</h3>
-                    <span className="px-1.5 py-0.5 bg-red-50 text-red-500 text-[10px] rounded font-medium">不推荐</span>
+                    <span className="px-1.5 py-0.5 bg-red-50 text-red-500 text-[0.625rem] rounded font-medium">不推荐</span>
                   </div>
-                  <p className="text-[11px] text-stone-400 leading-relaxed">零件过多，洗起来麻烦，我家娃喝这个容易漏一脖子奶。</p>
+                  <p className="text-[0.6875rem] text-stone-400 leading-relaxed">零件过多，洗起来麻烦，我家娃喝这个容易漏一脖子奶。</p>
                 </div>
               </AnimatedSection>
               <AnimatedSection delay={280}>
                 <div className="bg-white rounded-xl p-4 border border-stone-100 card-hover h-full">
                   <div className="flex items-center justify-between mb-1.5">
                     <h3 className="font-semibold text-stone-900 text-xs">MAM</h3>
-                    <span className="px-1.5 py-0.5 bg-red-50 text-red-500 text-[10px] rounded font-medium">一生黑</span>
+                    <span className="px-1.5 py-0.5 bg-red-50 text-red-500 text-[0.625rem] rounded font-medium">一生黑</span>
                   </div>
-                  <p className="text-[11px] text-stone-400 leading-relaxed">
+                  <p className="text-[0.6875rem] text-stone-400 leading-relaxed">
                     奶嘴好用，但设计有缺陷：热奶时气压变化容易把热水漏进奶瓶或把奶漏出去。
                   </p>
                 </div>
@@ -708,7 +708,7 @@ export default function Home() {
           >
             回到顶部 ↑
           </a>
-          <p className="text-[10px] text-white/15 mt-8">Made with care for new parents</p>
+          <p className="text-[0.625rem] text-white/15 mt-8">Made with care for new parents</p>
         </footer>
       </main>
     </>
