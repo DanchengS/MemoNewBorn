@@ -20,12 +20,13 @@
     - 长大可以当椅子用。
     - 国内可以买 **Stokke 轮子**（官方没有），椅子能在家里推来推去，方便。
     - stokke对应的餐盘建议不要买官方的，因为是磨砂的面，以后带吸盘的娃的碗盘不容易吸上去。 可以买亚马逊的光面的tray。 比较好用。娃以后吃饭的时候，一定会掀盘子的
-      <img width="463" height="250" alt="image" src="https://github.com/user-attachments/assets/0feca4dc-e1f5-4b5b-941d-c71591f9a3fc" />
+      <img width="100" height="70" alt="image" src="https://github.com/user-attachments/assets/0feca4dc-e1f5-4b5b-941d-c71591f9a3fc" />
     - 开始吃辅食后，可以装个配套的catchy，这样娃吃饭掉落的食物不会落在地上。
 
 ---
 
 ## Baby Registry
+### 注册Baby Registry可以薅羊毛，然后获得很多的试用装。这样你才知道娃比较喜欢/适合用什么。例如奶瓶，不同娃爱用不同的奶瓶/奶嘴。所以尽量用Baby Registry去薅一些回来，然后多试些牌子后再去自己花钱买。
 - Target
 - Walmart
 - Enfamil
@@ -38,8 +39,8 @@
 ## 好用的东西
 - 哺乳椅（带脚凳，可摇摇，虽用的不多，但很舒服）
 - 哺乳枕
-- **Diaper Genie**：尿布垃圾桶，不容易散味
-- 尿布台 - 小月龄有用，对腰比较友好，能翻身后使用频率降低
+- **Diaper Genie**：尿布垃圾桶，不容易让环境臭，但尿布桶会很臭就是了。
+- 尿布台 - 小月龄有用，对腰比较友好，娃能翻身后使用频率降低
 - 婴儿体重秤（洗澡后称重用）
 - App
   - 美柚: 可以看不同孕期时期有什么注意的。
@@ -70,15 +71,16 @@
 - **安睡裤**：产后要用
 - **产妇睡衣**
 - **Peri Bottle** <br><img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/c8a9e059-4f52-4322-8280-fbead3c6aecb" />
+- **洗头神器** 月子洗头发用。 
 
 
 ### 宝宝用
 - **口水巾**：6 层纱布以上才够软。备 20–30 条，勤换预防口水疹。
 - **拍嗝巾**：竖抱拍嗝防吐奶，或趴睡垫肩。
-- **隔尿垫**
+- **隔尿垫** 一种是costco的狗的尿垫，用完就扔挺方便。 另一种我们买的布的但也是防水的隔尿垫，铺床上给娃换尿布时候用。 
 - **方巾**：不同大小，10 多条，擦脸、洗澡都能用。
 - **床套**
-- **包巾**：小月龄睡觉必备，本地质量不佳，建议海淘。
+- **包巾**：小月龄睡觉必备，美国买的质量不佳，要么是太粗糙，要么是太软包不紧。建议海淘。
 - **睡袋**：可准备几条，本地质量好但贵；孩子长得快，淘汰快。
 - **和尚服连体衣**：避免套头，推荐 **乖奇熊**，质量好。
 - **婴儿游泳桶**：放电、缓解二月胀气。
@@ -86,6 +88,7 @@
 - **水龙头外接花洒** 在厕所洗手盆给娃洗屁股方便很多很多
 - **奶粉分装盒** 可以喝奶粉以后，出门必备
 - **磨指甲**
+- **温度计** 用来量化宝宝的睡觉环境，保持稳定的穿衣服。 
 
 
 ---
@@ -108,11 +111,11 @@
   - 严重：Destin Maximum Strength<br>
     <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/80db19fb-03a5-46b8-aa0b-1c7ca9a495da" />
 
-  - 建议流程：拉屎 → 水洗 → 棉柔巾擦干 → 抹药膏 → 换尿布
+  - 建议流程：拉屎 → 水洗 → 棉柔巾吸干水 → 抹药膏 → 穿尿布
 - **凡士林**：日常替代 Daily Defense，透气。
 - **Tubby Todd**：贵，但新生儿起疹子好用。
 - **Costco 狗尿垫**：换尿布/外出必备，便宜实用。
-- **包巾/睡袋** -- 有个东西叫TOG，数值越高，睡袋越厚越暖，数值越低，越轻薄透气
+- **包巾/睡袋** -- 有个东西叫TOG，数值越高，睡袋越厚越暖，数值越低，越轻薄透气。 Best practice我觉得应该是保持睡觉房间的温度，而不是冷的时候多穿衣服。网上十个睡不好的小孩儿，九个是热的。 
   - 小月龄：SwaddleMe/包巾 -- 防惊跳
   - 大点：Love To Dream <br>
     <img width="113" height="185" alt="image" src="https://github.com/user-attachments/assets/666edaec-42e2-4d7c-ab5b-9cf74300bedf" />
@@ -121,6 +124,7 @@
     <img width="112" height="131" alt="image" src="https://github.com/user-attachments/assets/ed6a92c0-6cd7-4a50-b845-0bbe893bebfa" />
 
 - **衣物**
+  - Uniqlo的不错穿。
   - Gerber 好用
   - 开衫比套头好穿
   -   <img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/fc2f9c5e-5362-4afa-8a6f-1535459d2ade" />
@@ -138,7 +142,7 @@
 - **Dr Brown**
   - 零件过于多了，洗起来麻烦，我家娃喝这个容易漏一脖子奶
 - **MAM**
-  - MAM 一生黑，奶嘴好用，设计巨垃圾，热奶容易漏。
+  - MAM 一生黑，奶嘴好用，设计巨垃圾，热奶的时候容易因为温度变化导致的气压变化而把热水漏进奶瓶or把奶漏出到热水里。
 - **奶瓶消毒**
   - 我们买的就是蒸汽消毒+烘干 good enough
 - **洗奶瓶用婴儿洗洁精**
