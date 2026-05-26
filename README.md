@@ -16,8 +16,12 @@
 - **成长椅**
   - **Stokke**：基本人手一个。
     - 小时用 newborn set（又名拉屎神器），让娃躺上面。
+    - 小月龄可以趴在newborn set上面练习抬头。 
     - 长大可以当椅子用。
     - 国内可以买 **Stokke 轮子**（官方没有），椅子能在家里推来推去，方便。
+    - stokke对应的餐盘建议不要买官方的，因为是磨砂的面，以后带吸盘的娃的碗盘不容易吸上去。 可以买亚马逊的光面的tray。 比较好用。娃以后吃饭的时候，一定会掀盘子的
+      <img width="463" height="250" alt="image" src="https://github.com/user-attachments/assets/0feca4dc-e1f5-4b5b-941d-c71591f9a3fc" />
+    - 开始吃辅食后，可以装个配套的catchy，这样娃吃饭掉落的食物不会落在地上。
 
 ---
 
